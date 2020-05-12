@@ -52,10 +52,10 @@ Download telegram messenger app and search for "Covid-19 care"(@Covidcare_bot), 
 
 ### OUTPUT IMAGES:
 
- ##### BOT OUTPUT:
+BOT OUTPUT:
  ![Chatbot Messenger Output](https://github.com/sangeethayemisetty/Covid-19-Chatbot/blob/master/MessengerOutput2.PNG)
  
- ##### EMAIL OUTPUT:
+EMAIL OUTPUT:
  ![Email Output](https://github.com/sangeethayemisetty/Covid-19-Chatbot/blob/master/CahatbotEmail.PNG)
  
 
