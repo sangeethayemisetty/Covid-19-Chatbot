@@ -50,12 +50,12 @@ Download telegram messenger app and search for "Covid-19 care"(@Covidcare_bot), 
 -  It is Integrated using webbhook with telegram and Facebook messenger
 
 
-### OUTPUT IMAGES
+### OUTPUT IMAGES:
+
+ ##### BOT OUTPUT:
+ ![Chatbot Messenger Output](https://github.com/sangeethayemisetty/Covid-19-Chatbot/blob/master/MessengerOutput2.PNG)
  
- ##### BOT OUTPUT
-  ![Chatbot Messenger Output](https://github.com/sangeethayemisetty/Covid-19-Chatbot/blob/master/MessengerOutput2.PNG)
-  
- ##### EMAIL OUTPUT
+ ##### EMAIL OUTPUT:
  ![Email Output](https://github.com/sangeethayemisetty/Covid-19-Chatbot/blob/master/CahatbotEmail.PNG)
  
 
