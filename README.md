@@ -4,7 +4,7 @@ Covid-19 bot is a chatbot that  is used to answer any qiries related to covid19 
  
 ## Functional architecture 
 
-
+<img src="https://github.com/sangeethayemisetty/Covid-19-Chatbot/blob/master/FunctionalArchiticture.PNG" alt="alt text" width="300"/>
 
 ## Functionalities :
 
