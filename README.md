@@ -38,7 +38,7 @@ Covid-19 bot is a chatbot that  is used to answer any qiries related to covid19 
  
  ## Output Images
  
- ![Messenger Output](https://github.com/sangeethayemisetty/Covid-19-Chatbot/blob/master/MessengerOutput.PNG)
+ ![Email Output](https://github.com/sangeethayemisetty/Covid-19-Chatbot/blob/master/CahatbotEmail.PNG)
  
  ![Messenger Output](https://github.com/sangeethayemisetty/Covid-19-Chatbot/blob/master/MessengerOutput2.PNG)
 
