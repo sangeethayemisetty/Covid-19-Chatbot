@@ -24,33 +24,45 @@ Download telegram messenger app and search for "Covid-19 care"(@Covidcare_bot), 
 
 ## FUNCTIONALITIES :
 
--  The bot is trained using intents and contexts that were created using google dialog flow 
+### GOOGLE DIALOG FLOW:
+ - The bot is trained using intents and contexts that were created using google dialog flow 
 
--  The response for all the cutomer requests are fetched from WHO published live document by creating knowledge base in        google dialog flow
+- The response for all the cutomer requests are fetched from WHO published live document by creating knowledge base in        google dialog flow
 
--  For the local information of covid cases, it fetches the info related to the given zipcode locality using the api            http://covid19india.p.rapidapi.com/getStateData and mails it to the users mail id.
+### REST API:
+- For the local information of covid cases, it fetches the info related to the given zipcode locality using the api            http://covid19india.p.rapidapi.com/getStateData and mails it to the users mail id.
 
--  Mailing functionality is implemented using SMTPLIB in python
+### SMTPLIB 
+- Mailing functionality is implemented using SMTPLIB in python
 
--  It also uploads the covid related statistics to AWS, such that on search of global view it gives the following view(Right    now this is paid version because of AWS storage fee, for sample I have used my training AWS account)
+### AWS 
+- It also uploads the covid related statistics to AWS, such that on search of global view it gives the following view(Right    now this is paid version because of AWS storage fee, for sample I have used my training AWS account)
 
 ![Image description](https://github.com/sangeethayemisetty/Covid-19-Chatbot/blob/master/ChatbotGlobalview.PNG)
 
+### FLASK
 -  The connectivity between the fetching of data and mailing it to user is implementd by using #Flask
 
--  The deployment of application is done using #Heroku 
+### HEROKU
+-  The deployment of application is done using # Heroku 
 
--  Data is stored using #MongoDB
+### MONGO DB
+-  Data is stored using # MongoDB
 
+### INTEGRATION CHANNELS
 -  It is Integrated using webbhook with telegram and Facebook messenger
 
 
  
- ## Output Images
+ ## OUTPUT IMAGES
  
+ ### BOT OUTPUT
+  ![Messenger Output](https://github.com/sangeethayemisetty/Covid-19-Chatbot/blob/master/MessengerOutput2.PNG)
+  
+ ### EMAIL OUTPUT
  ![Email Output](https://github.com/sangeethayemisetty/Covid-19-Chatbot/blob/master/CahatbotEmail.PNG)
  
- ![Messenger Output](https://github.com/sangeethayemisetty/Covid-19-Chatbot/blob/master/MessengerOutput2.PNG)
+
 
  
  
