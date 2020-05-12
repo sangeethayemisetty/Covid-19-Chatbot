@@ -15,7 +15,9 @@ Download telegram messenger app and search for "Covid-19 care"(@Covidcare_bot), 
  
 ## FUNCTIONAL ARCHITECTURE 
 
-![Image description](https://github.com/sangeethayemisetty/Covid-19-Chatbot/blob/master/FunctionalArchiticture.PNG)
+
+
+<img src="https://github.com/sangeethayemisetty/Covid-19-Chatbot/blob/master/FunctionalArchiticture.PNG" alt="alt text" width="300"/>
 
 
 ## SEQUENCE DIAGRAM 
