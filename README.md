@@ -13,7 +13,7 @@ Download telegram messenger app and search for "Covid-19 care"(@Covidcare_bot), 
  
 ### FUNCTIONAL ARCHITECTURE 
 
-![Functional Architecture](https://github.com/sangeethayemisetty/Covid-19-Chatbot/blob/master/FunctionalArchiticture.PNG)
+![Functional Architecture](assets/CahatbotEmail.PNG)
 
 ### SEQUENCE DIAGRAM 
 
@@ -56,7 +56,7 @@ BOT OUTPUT:
  ![Chatbot Messenger Output](https://github.com/sangeethayemisetty/Covid-19-Chatbot/blob/master/MessengerOutput2.PNG)
  
 EMAIL OUTPUT:
- ![Email Output](https://github.com/sangeethayemisetty/Covid-19-Chatbot/blob/master/CahatbotEmail.PNG)
+ ![Email Output](assets/CahatbotEmail.PNG)
  
 
  
