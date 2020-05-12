@@ -13,10 +13,7 @@ Covid-19 bot is a chatbot that  is used to answer any qiries related to covid19 
 -  Mailing functionality is implemented using SMTPLIB in python
 
 -  It also uploads the covid related statistics to AWS, such that on serch of global view it gives the following view(Right now this is paid version because of AWS storage fee, for sample I have used my training AWS account)
-    <img src="markdownmonstericon.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
-
+   ! [Global View] (https://github.com/sangeethayemisetty/Covid-19-Chatbot/blob/master/Chatbot%20Global%20view)
 -  The connectivity between the fetching of data and mailing it ti user is implementd by using #Flask
 
 -  The deployment of application is done using Heroku 
