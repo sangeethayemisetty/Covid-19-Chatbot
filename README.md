@@ -6,6 +6,10 @@ Covid-19 bot is a chatbot that  is used to answer any qiries related to covid19 
 
 <img src="https://github.com/sangeethayemisetty/Covid-19-Chatbot/blob/master/FunctionalArchiticture.PNG" alt="alt text" width="300"/>
 
+## Sequence diagram 
+
+<img src="https://github.com/sangeethayemisetty/Covid-19-Chatbot/blob/master/SequenceDiagram1.PNG" alt="alt text" width="1000"/>
+
 ## Functionalities :
 
 -  The bot is trained using intents and contexts that were created using google dialog flow 
@@ -31,5 +35,12 @@ Covid-19 bot is a chatbot that  is used to answer any qiries related to covid19 
 ## How to use :
  
  Download telegram messenger app and search for "Covid-19 care", then start asking questions 
+ 
+ ## Output Images
+ 
+ ![Messenger Output](https://github.com/sangeethayemisetty/Covid-19-Chatbot/blob/master/MessengerOutput.PNG)
+ 
+ ![Messenger Output](https://github.com/sangeethayemisetty/Covid-19-Chatbot/blob/master/MessengerOutput2.PNG)
+
  
  
