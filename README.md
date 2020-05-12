@@ -63,6 +63,5 @@ Download telegram messenger app and search for "Covid-19 care"(@Covidcare_bot), 
  ![Email Output](https://github.com/sangeethayemisetty/Covid-19-Chatbot/blob/master/CahatbotEmail.PNG)
  
 
-
  
  
