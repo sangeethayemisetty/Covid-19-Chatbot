@@ -13,14 +13,11 @@ Download telegram messenger app and search for "Covid-19 care"(@Covidcare_bot), 
  
 ### FUNCTIONAL ARCHITECTURE 
 
-
-
-<img src="https://github.com/sangeethayemisetty/Covid-19-Chatbot/blob/master/FunctionalArchiticture.PNG" alt="alt text" width="300"/>
-
+![Functional Architecture](https://github.com/sangeethayemisetty/Covid-19-Chatbot/blob/master/FunctionalArchiticture.PNG)
 
 ### SEQUENCE DIAGRAM 
 
-![Image description](https://github.com/sangeethayemisetty/Covid-19-Chatbot/blob/master/SequenceDiagram1.PNG)
+![Sequence Diagram](https://github.com/sangeethayemisetty/Covid-19-Chatbot/blob/master/SequenceDiagram1.PNG)
 
 ### FUNCTIONALITIES :
 
@@ -38,7 +35,7 @@ Download telegram messenger app and search for "Covid-19 care"(@Covidcare_bot), 
 ##### AWS 
 - It also uploads the covid related statistics to AWS, such that on search of global view it gives the following view(Right    now this is paid version because of AWS storage fee, for sample I have used my training AWS account)
 
-![Image description](https://github.com/sangeethayemisetty/Covid-19-Chatbot/blob/master/ChatbotGlobalview.PNG)
+![Chatbot Global View](https://github.com/sangeethayemisetty/Covid-19-Chatbot/blob/master/ChatbotGlobalview.PNG)
 
 ##### FLASK
 -  The connectivity between the fetching of data and mailing it to user is implementd by using #Flask
@@ -57,7 +54,7 @@ Download telegram messenger app and search for "Covid-19 care"(@Covidcare_bot), 
  ### OUTPUT IMAGES
  
  ##### BOT OUTPUT
-  ![Messenger Output](https://github.com/sangeethayemisetty/Covid-19-Chatbot/blob/master/MessengerOutput2.PNG)
+  ![Chatbot Messenger Output](https://github.com/sangeethayemisetty/Covid-19-Chatbot/blob/master/MessengerOutput2.PNG)
   
  ##### EMAIL OUTPUT
  ![Email Output](https://github.com/sangeethayemisetty/Covid-19-Chatbot/blob/master/CahatbotEmail.PNG)
